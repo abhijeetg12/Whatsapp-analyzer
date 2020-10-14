@@ -1,5 +1,7 @@
 # Whatsapp-analyzer
-##Usage
+
+Usage
+
 1.Download the chat. Head on to the required chat on Whatsapp app. Click the three dots in top right corner, export chat, without media. Unfortunately, this feature is unavailable in Whatsapp Web.
 
 2.Rename contacts as you would want in the plot.
